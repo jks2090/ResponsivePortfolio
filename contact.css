@@ -15,29 +15,36 @@ footer{
     color: white;
 }
 .container{
+    
     position: fixed;
-    margin-top: 70px;
-    margin-left: 25px;
+    margin-top: 10vh;
+    margin-left: 5vh;
     background-color: white;
     float: left;
-    width: 75%;
+    width: 65%;
     height: 65%;
     
 }
 .container h1{
+    
     margin-top: 15px;
     margin-left: 5px;
     color: #00afa6 !important;
+    border-bottom: 1px solid lightgray;
 }
 .form-group{
+    
     margin-top: 15px;
     margin-left: 20px;
+    width: 75%;
 }
 
 .btn.btn-square {
     border-radius: 0;
+
   }
 .container button{
+    
     display: block;
     margin-top: 5px;
     margin-left: 10px;
