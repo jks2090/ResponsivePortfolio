@@ -1,0 +1,16 @@
+html{
+    background-image: url(ignasi_pattern_s.png);
+}
+.navbar-brand{
+    background-color: #00afa6;
+    color: white !important;
+}
+footer{
+    border-top: 5px solid #00afa6; 
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
