@@ -32,3 +32,21 @@ footer{
     color: #00afa6 !important;
     border-bottom: 1px solid lightgray;
 }
+.jumbotron{
+    margin-top: 0;
+    background-color: white;
+}
+
+.row img{
+    height: 150px;
+    width: 150px;
+   
+    
+}
+.last-row img{
+    height: 150px;
+    width: 150px;
+    float: left;
+    
+    
+}
